@@ -19,3 +19,17 @@ Support Vector Machines
 Hyperparameter Tuning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/carte-biozone-workshop/blob/main/Lab-1-2.ipynb)
+
+## Day 2
+
+### Lab 1
+
+Decision Trees and Random Forests
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/carte-biozone-workshop/blob/main/Lab-2-1.ipynb)
+
+### Lab 2
+
+Unsupervised Learning: Clustering and Dimensionality Reduction
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/carte-biozone-workshop/blob/main/Lab-2-2.ipynb)
