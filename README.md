@@ -33,3 +33,17 @@ Decision Trees and Random Forests
 Unsupervised Learning: Clustering and Dimensionality Reduction
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/carte-biozone-workshop/blob/main/Lab-2-2.ipynb)
+
+## Day 3
+
+### Lab 1
+
+Neural Networks and Deep Learning
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/carte-biozone-workshop/blob/main/Lab-3-1.ipynb)
+
+### Lab 2
+
+Transformers and GPT
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexwolson/carte-biozone-workshop/blob/main/Lab-3-2.ipynb)
