@@ -36,6 +36,14 @@ Unsupervised Learning: Clustering and Dimensionality Reduction
 
 ## Day 3
 
+## Videos
+
+3Blue1Brown: [But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
+
+3Blue1Brown: [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+
+3Blue1Brown: [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+
 ### Lab 1
 
 Neural Networks and Deep Learning
